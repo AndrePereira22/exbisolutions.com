@@ -1,1 +1,0 @@
-const e={background:"linear-gradient(135deg, #4b88e2, #051936)",color:"#fff",fontSize:"1.4rem",fontWeight:600,textAlign:"center",borderTopLeftRadius:"16px",borderTopRightRadius:"16px",padding:"1rem 1.5rem",display:"flex",justifyContent:"center",alignItems:"center",gap:"0.5rem"};export{e as c};
